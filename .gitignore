@@ -137,11 +137,15 @@ dmypy.json
 # 94.drafts/
 # 95.temp/
 9*/
+
 01.data/
+
+07.train/9.working/
 
 # * file 
 # -------- 
 *.csv
+*.xlsx
 *.zip
-
+*.html
 
